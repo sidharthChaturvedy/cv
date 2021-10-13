@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T06:22:01.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="HDx1Yo_s70zFQanvUh5i" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T06:22:46.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="l5lLJDFf4nIabShU8yOC" version="15.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,14 +41,14 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hubsXrJKPh73kYITEDOT-0" value="Sum&lt;br&gt;&amp;nbsp;last 2 values in output" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="400" width="115" height="110" as="geometry" />
+          <mxGeometry x="160" y="400" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hubsXrJKPh73kYITEDOT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hubsXrJKPh73kYITEDOT-3" target="hubsXrJKPh73kYITEDOT-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="60" y="595" />
-              <mxPoint x="60" y="460" />
+              <mxPoint x="60" y="449" />
             </Array>
           </mxGeometry>
         </mxCell>
